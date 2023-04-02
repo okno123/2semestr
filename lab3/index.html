@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <link rel="stylesheet" href = "style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Домашняя 3</title>
+</head>
+<body>
+<div class="main">
+    <form action="send.php" method="POST">
+
+        <label>Имя</label> <br>
+
+        <input type="text" class="form-control"name ="name" id="InputName"> <br>
+      
+          <label>Email адресс</label> <br>
+          <input type="email" name ="email" placeholder="Введите вашу почту"> <br>
+       
+          <label >Текстовое поле даты</label><br>   
+          <input type="date" name="date"><br>
+        
+          <label>Пол: 
+          <br>
+            <label>
+              М
+              <input type="radio" name="gender" value="М" >
+            </label>
+            <br>
+            <label>
+              Ж
+              <input type="radio" name="gender" value="Ж" >
+            </label>
+            </label>
+            <br>
+        
+          <label>Выберете количество конечностей</label>
+          <br>
+           <label>
+             2
+             <input type="radio" name="limb" value="2">
+           </label>
+           <label>
+             3
+             <input type="radio" name="limb" value="3">
+           </label>
+           <label>
+             4
+             <input type="radio" name="limb" value="4">
+           </label>
+       
+        <br>
+          <label>Сверхспособности</label>
+          <br>
+          <select name="Superpowers[]" multiple = "multiple">
+            <option id = "1" value = "1"> Телекинез</option>
+            <option id = "2" value = "2"> Невидимость</option>
+            <option id = "3" value = "3"> Бессмертие</option>
+          </select>
+          <br>
+         
+          <label>Биография</label>
+          <br>
+          <textarea name="bio"></textarea>
+          <br>
+        
+          <input type="checkbox" name="contract">
+          <label>С контрактом ознакомлен</label>
+          <br>
+
+        <button type="submit">Отправить</button>
+      </form>
+    </div>  
+</body>
+</html>

@@ -1,0 +1,17 @@
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\kukuha.csproj.AssemblyReference.cache
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\kukuha.csproj.ResolveComReference.cache
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\kukuha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\kukuha.AssemblyInfoInputs.cache
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\kukuha.AssemblyInfo.cs
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\kukuha.csproj.CoreCompileInputs.cache
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\bin\Debug\net6.0\kukuha.exe
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\bin\Debug\net6.0\kukuha.deps.json
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\bin\Debug\net6.0\kukuha.runtimeconfig.json
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\bin\Debug\net6.0\kukuha.dll
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\bin\Debug\net6.0\kukuha.pdb
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\kukuha.dll
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\refint\kukuha.dll
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\kukuha.pdb
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\kukuha.genruntimeconfig.cache
+C:\Users\Isusi\OneDrive\Рабочий стол\qwerty\kukuha\kukuha\obj\Debug\net6.0\ref\kukuha.dll

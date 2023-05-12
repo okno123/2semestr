@@ -112,7 +112,7 @@ namespace kukuha
 
             //document.Content.SetRange(0, 0);
             document.Content.InsertAfter("                                                             Тест 2. Вариант " + i +
-                "\n1.Медиана вариационного ряда 2, 3, 5, 6, 7, 8, x7, 15, 18, 19, 22, 24 равна 11. Тогда значение варианты x7 равно:" + Environment.NewLine);
+                "\n1.Медиана вариационного ряда 2, 3, 5, 6, 7, 8, x₇, 15, 18, 19, 22, 24 равна 11. Тогда значение варианты x7 равно:" + Environment.NewLine);
             a = "13"; b = "12"; c = "14"; d = "10"; key = c;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
@@ -218,7 +218,7 @@ namespace kukuha
                     }
                 }
             }*/
-            document.Content.InsertAfter("\nТогда относительная частота варианты xi = 5 равна:\n");
+            document.Content.InsertAfter("\nТогда относительная частота варианты xᵢ = 5 равна:\n");
             a = "0,4"; b = "0,35"; c = "0,45"; d = "0,75"; key = c;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
@@ -268,7 +268,7 @@ namespace kukuha
             all_key.Add(key);
             document.Content.InsertAfter("\n\n\n\nТогда значение a равно:\n" + otv +
                 "\n9. Проведено пять измерений (без систематических ошибок) некоторой случайной величины (в мм): 2,1; x2; 2,4; 2,7; 2,9. " +
-                    "Если несмещенная оценка математического ожидания равна 2, 48, то x2 равно:\n");
+                    "Если несмещенная оценка математического ожидания равна 2, 48, то x₂ равно:\n");
 
             a = "2,4"; b = "2,5"; c = "2,3"; d = "2,48"; key = c;
             otv = otvet(a, b, c, d, ref key);
@@ -279,7 +279,7 @@ namespace kukuha
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
             document.Content.InsertAfter(otv +
-                "\n11. Если все варианты xi исходного вариационного ряда увеличить в три раза, то выборочное среднее\n");
+                "\n11. Если все варианты xᵢ исходного вариационного ряда увеличить в три раза, то выборочное среднее\n");
             a = "увеличится на 3 единицы"; b = "увеличится в 3 раза"; c = "не изменится"; d = "увеличится в 9 раз"; key = b;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
@@ -378,7 +378,7 @@ namespace kukuha
             all_key.Clear();
             string a, b, c, d, key, otv;
             document.Content.InsertAfter("                                                             Тест 2. Вариант " + i +
-                 "\n1.Медиана вариационного ряда 2, 3, 5, 6, 7, 8, x7, 15, 18, 19, 22, 24 равна 10. Тогда значение варианты x7 равно:" + Environment.NewLine);
+                 "\n1.Медиана вариационного ряда 2, 3, 5, 6, 7, 8, x₇, 15, 18, 19, 22, 24 равна 10. Тогда значение варианты x7 равно:" + Environment.NewLine);
             a = "13"; b = "12"; c = "14"; d = "10"; key = b;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
@@ -410,7 +410,7 @@ namespace kukuha
             rng.Collapse(Microsoft.Office.Interop.Word.WdCollapseDirection.wdCollapseEnd);
             document.InlineShapes.AddPicture(imagePath4, true, true, rng);
 
-            document.Content.InsertAfter("\nТогда относительная частота варианты xi = 5 равна:\n");
+            document.Content.InsertAfter("\nТогда относительная частота варианты xᵢ = 5 равна:\n");
             a = "0,04"; b = "0,35"; c = "0,45"; d = "0,5"; key = d;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
@@ -455,7 +455,7 @@ namespace kukuha
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
             document.Content.InsertAfter("\n\n\n\nТогда значение a равно:\n" + otv +
-                "\n9. Проведено пять измерений (без систематических ошибок) некоторой случайной величины (в мм): 2,2; x2; 2,6; 2,7; 2,9. " +
+                "\n9. Проведено пять измерений (без систематических ошибок) некоторой случайной величины (в мм): 2,2; x₂; 2,6; 2,7; 2,9. " +
                     "Если несмещенная оценка математического ожидания равна 2, 48, то x2 равно:\n");
 
             a = "2,4"; b = "2,5"; c = "2,3"; d = "2,48"; key = a;
@@ -467,7 +467,7 @@ namespace kukuha
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
             document.Content.InsertAfter(otv +
-                "\n11. Если все варианты xi исходного вариационного ряда увеличить в четыре раза, то выборочное среднее\n");
+                "\n11. Если все варианты xᵢ исходного вариационного ряда увеличить в четыре раза, то выборочное среднее\n");
             a = "увеличится на 4 единицы"; b = "увеличится в 4 раза"; c = "не изменится"; d = "увеличится в 16 раз"; key = b;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
@@ -536,7 +536,7 @@ namespace kukuha
             string a, b, c, d, key, otv;
 
             document.Content.InsertAfter("                                                             Тест 2. Вариант " + i +
-                 "\n1.Медиана вариационного ряда 2, 3, 5, 6, 7, 8, x7, 15, 18, 19, 22, 24 равна 9. Тогда значение варианты x7 равно:" + Environment.NewLine);
+                 "\n1.Медиана вариационного ряда 2, 3, 5, 6, 7, 8, x₇, 15, 18, 19, 22, 24 равна 9. Тогда значение варианты x7 равно:" + Environment.NewLine);
             a = "13"; b = "12"; c = "14"; d = "10"; key = d;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
@@ -568,7 +568,7 @@ namespace kukuha
             rng.Collapse(Microsoft.Office.Interop.Word.WdCollapseDirection.wdCollapseEnd);
             document.InlineShapes.AddPicture(imagePath4, true, true, rng);
 
-            document.Content.InsertAfter("\nТогда относительная частота варианты xi = 5 равна:\n");
+            document.Content.InsertAfter("\nТогда относительная частота варианты xᵢ = 5 равна:\n");
             a = "0,35"; b = "0,16"; c = "0,75"; d = "0,56"; key = d;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
@@ -614,7 +614,7 @@ namespace kukuha
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
             document.Content.InsertAfter("\n\n\n\nТогда значение a равно:\n" + otv +
-                "\n9. Проведено пять измерений (без систематических ошибок) некоторой случайной величины (в мм): 2,1; x2; 2,4; 2,7; 2,9. " +
+                "\n9. Проведено пять измерений (без систематических ошибок) некоторой случайной величины (в мм): 2,1; x₂; 2,4; 2,7; 2,9. " +
                     "Если несмещенная оценка математического ожидания равна 2, 48, то x2 равно:\n");
 
             a = "2,4"; b = "2,5"; c = "2,3"; d = "2,2"; key = d;
@@ -626,7 +626,7 @@ namespace kukuha
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
             document.Content.InsertAfter(otv +
-                "\n11. Если все варианты xi исходного вариационного ряда уменшить в три раза, то выборочное среднее\n");
+                "\n11. Если все варианты xᵢ исходного вариационного ряда уменшить в три раза, то выборочное среднее\n");
             a = "уменьшится на 3 единицы"; b = "уменьшится в 3 раза"; c = "не изменится"; d = "увеличится в 9 раз"; key = b;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
@@ -694,7 +694,7 @@ namespace kukuha
             all_key.Clear();
             string a, b, c, d, key, otv;
             document.Content.InsertAfter("                                                             Тест 2. Вариант " + i +
-                 "\n1.Медиана вариационного ряда 2, 3, 5, 6, 7, 9, x7, 16, 18, 19, 22, 24 равна 13. Тогда значение варианты x7 равно:" + Environment.NewLine);
+                 "\n1.Медиана вариационного ряда 2, 3, 5, 6, 7, 9, x₇, 16, 18, 19, 22, 24 равна 13. Тогда значение варианты x7 равно:" + Environment.NewLine);
             a = "13"; b = "12"; c = "14"; d = "10"; key = a;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
@@ -725,7 +725,7 @@ namespace kukuha
             rng.Collapse(Microsoft.Office.Interop.Word.WdCollapseDirection.wdCollapseEnd);
             document.InlineShapes.AddPicture(imagePath4, true, true, rng);
 
-            document.Content.InsertAfter("\nТогда относительная частота варианты xi = 5 равна:\n");
+            document.Content.InsertAfter("\nТогда относительная частота варианты xᵢ = 5 равна:\n");
             a = "0,55"; b = "0,4"; c = "0,825"; d = "0,725"; key = d;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
@@ -770,7 +770,7 @@ namespace kukuha
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
             document.Content.InsertAfter("\n\n\n\nТогда значение a равно:\n" + otv +
-                "\n9. Проведено пять измерений (без систематических ошибок) некоторой случайной величины (в мм): 2,2; x2; 2,6; 2,7; 2,9. " +
+                "\n9. Проведено пять измерений (без систематических ошибок) некоторой случайной величины (в мм): 2,2; x₂; 2,6; 2,7; 2,9. " +
                     "Если несмещенная оценка математического ожидания равна 2, 48, то x2 равно:\n");
 
             a = "2,4"; b = "2,5"; c = "2,3"; d = "2,48"; key = b;
@@ -782,7 +782,7 @@ namespace kukuha
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);
             document.Content.InsertAfter(otv +
-                "\n11. Если все варианты xi исходного вариационного ряда увеличить в пять раз, то выборочное среднее\n");
+                "\n11. Если все варианты xᵢ исходного вариационного ряда увеличить в пять раз, то выборочное среднее\n");
             a = "увеличится на 5 единиц"; b = "увеличится в 5 раз"; c = "не изменится"; d = "увеличится в 25 раз"; key = b;
             otv = otvet(a, b, c, d, ref key);
             all_key.Add(key);

@@ -1,0 +1,36 @@
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\bin\Debug\Оконное приложение.exe.config
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\bin\Debug\Оконное приложение.exe
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\bin\Debug\Оконное приложение.pdb
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\obj\Debug\Оконное приложение.csproj.AssemblyReference.cache
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\obj\Debug\Оконное приложение.csproj.SuggestedBindingRedirects.cache
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\obj\Debug\Оконное_приложение.Form1.resources
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\obj\Debug\Оконное_приложение.Properties.Resources.resources
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\obj\Debug\Оконное приложение.csproj.GenerateResource.cache
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\obj\Debug\Оконное приложение.csproj.CoreCompileInputs.cache
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\obj\Debug\Оконное приложение.exe
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\obj\Debug\Оконное приложение.pdb
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Оконное приложение\Оконное приложение\obj\Debug\Оконное приложение.csproj.ResolveComReference.cache
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\bin\Debug\Оконное приложение.exe.config
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\bin\Debug\Оконное приложение.exe
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\bin\Debug\Оконное приложение.pdb
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.csproj.AssemblyReference.cache
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.csproj.SuggestedBindingRedirects.cache
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.csproj.ResolveComReference.cache
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\obj\Debug\Оконное_приложение.Form1.resources
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\obj\Debug\Оконное_приложение.Properties.Resources.resources
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.csproj.GenerateResource.cache
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.csproj.CoreCompileInputs.cache
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.exe
+C:\Users\erush\Desktop\KUBSU_FPM_LIB\Программирование\2 курс\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.pdb
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\bin\Debug\Оконное приложение.exe.config
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\bin\Debug\Оконное приложение.exe
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\bin\Debug\Оконное приложение.pdb
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.csproj.AssemblyReference.cache
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.csproj.SuggestedBindingRedirects.cache
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.csproj.ResolveComReference.cache
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\obj\Debug\Оконное_приложение.Form1.resources
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\obj\Debug\Оконное_приложение.Properties.Resources.resources
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.csproj.GenerateResource.cache
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.csproj.CoreCompileInputs.cache
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.exe
+C:\Users\Isusi\OneDrive\Рабочий стол\Tv2023\Генератор Теста\Оконное приложение\obj\Debug\Оконное приложение.pdb

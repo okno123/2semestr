@@ -3,18 +3,20 @@
 
     session_start();
 
-    if (!empty($_SESSION['login']))
-    {
-        session_destroy();
-        header('Location: ./');
-    }
+    if ($_SERVER['REQUEST_METHOD'] == 'GET'){
+        if (empty($_SERVER['PHP_AUTH_USER']) ||
+        empty($_SERVER['PHP_AUTH_PW']) ||
+        $_SERVER['PHP_AUTH_USER'] != 'Admin' ||
+        md5($_SERVER['PHP_AUTH_PW']) != md5('7777777')) {
+        header('HTTP/1.1 401 Unanthorized');
+        header('WWW-Authenticate: Basic realm="My site"');
+        print('<h1>401 Требуется авторизация</h1>');
+        exit();
+      }
 
     $user = 'u52860';
     $password = '5556290';
     $database = new PDO('mysql:host=localhost;dbname=u52860', $user, $password, [PDO::ATTR_PERSISTENT => true, PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]);
-
-    if ($_SERVER['REQUEST_METHOD'] == 'GET')
-    {
         ?>
 
         <head>
